@@ -1,3 +1,6 @@
+chef-multitail
+==============
+
 multitail Cookbook
 ==================
 
@@ -60,3 +63,4 @@ Contributing
 License and Authors
 -------------------
 Authors: Brett Richardson (dablweb.com) [github: brett-richardson]
+=======
