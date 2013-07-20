@@ -23,8 +23,7 @@ describe_recipe "multitail:default" do
 
 	describe 'files' do
 		it "has a multitail.conf file" do
-				file( node['multitail']['conf_dir'] ).must_exist
-			end
+			file( node['multitail']['conf_dir'] ).must_exist
 		end
 	end
 end
